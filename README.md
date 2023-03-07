@@ -4,10 +4,10 @@ Analysis code for McDermott et al manuscript "Delayed formation of neural repres
 The analysis code for this paper is based on the pipeline introduced in Frechou at al. and available at https://github.com/GoncalvesLab/Frechou-et-al-Neurogenesis
 
 
-Pre-processing of Ca2+ movies: Preprocessing McD.py
+Pre-processing of Ca2+ movies: Preprocessing_Aging.py
 
 
-Tuning code: Tuning Aging.m
+Tuning code: Tuning_Aging.m
 
 Single cell Fisher Information:
 
@@ -17,5 +17,5 @@ Single cell activity:
 
 See https://github.com/GoncalvesLab/Frechou-et-al-Neurogenesis : Activity.py
 
-Nested bootstrap: Bootstrapping Aging.py
+Nested bootstrap: Bootstrapping_Aging.py
 
